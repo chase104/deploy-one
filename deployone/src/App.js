@@ -13,6 +13,7 @@ function App() {
           HerokuLink: https://dashboard.heroku.com/apps/deployone
         </p>
         <p>beta branch</p>
+        <p>alpha-delta branch</p>
         <a
           className="App-link"
           href="https://reactjs.org"
