@@ -9,6 +9,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Deploy One
+          Github link: https://github.com/chase104/deploy-one
+          HerokuLink: https://dashboard.heroku.com/apps/deployone
         </p>
         <a
           className="App-link"
