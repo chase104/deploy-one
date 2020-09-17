@@ -12,6 +12,7 @@ function App() {
           Github link: https://github.com/chase104/deploy-one
           HerokuLink: https://dashboard.heroku.com/apps/deployone
         </p>
+        <p>alpha branch</p>
         <a
           className="App-link"
           href="https://reactjs.org"
